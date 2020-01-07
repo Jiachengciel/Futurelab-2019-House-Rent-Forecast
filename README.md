@@ -1,5 +1,16 @@
 # Futurelab-2019-House-Rent-Forecast
 
+[![Travis](https://img.shields.io/badge/language-Python-red.svg)]()
+![今天被访问次数](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=Jiachengciel/Futurelab-2019-House-Rent-Forecast)
+
+****
+
+|Author|Jiacheng|
+|---|---
+|E-mail|l.jiacheng@qq.com
+
+****
+
 ## “2019未来杯高校AI挑战赛 > 城市-房产租金预测”
 
 <b>赛题说明</b>
